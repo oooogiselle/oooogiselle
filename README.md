@@ -1,10 +1,10 @@
 ### Hi, I'm Giselle
 
-I study CS and Computer Engineering at Dartmouth ('27) and build AI products end to end: from the user interviews to the eval to the deploy.
+I study CS and Computer Engineering at Dartmouth ('27) and build AI products end to end: from the user interviews to the eval to the deploy, because small details are never small to the person using them.
 
 - **Visa** (SWE Intern, Summer 2026): built a GenAI pipeline that keeps docs for 12 microservices in sync with the code, plus an MCP code knowledge graph across 11 repos. Received a return offer.
 - **Siemens EDA** (Engineering Intern, Winter 2026): self-healing tool routing for a 500+ tool LLM toolchain (20% fewer bad calls) and CUDA kernels for a 3x speedup. Received a return offer.
-- **DALI Lab** (Full-Stack Developer): a live AI clinical assistant for ZebraMD with hybrid RAG, FHIR records and a voice interface for motor-impaired users.
+- **DALI Lab** (Developer): this term I'm building **Custom Tours** for a New England tour operator. I own the budget system, the itinerary output and "pocket items" (her documents, stored in the cloud instead of on one laptop). Before that, I built ZebraMD's live AI clinical assistant with hybrid RAG, FHIR records and a voice interface for motor-impaired users.
 
 #### Things I've built
 
