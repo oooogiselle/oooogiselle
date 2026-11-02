@@ -1,4 +1,4 @@
-### Hi, I'm Giselle 👋
+### Hi, I'm Giselle
 
 I study CS and Computer Engineering at Dartmouth ('27) and build AI products end to end: from the user interviews to the eval to the deploy.
 
